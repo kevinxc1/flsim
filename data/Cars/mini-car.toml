@@ -1,0 +1,29 @@
+mass = 243 # kg
+
+[aerobody]
+drag-coefficient = 0.10583
+frontal-area = 0.6802
+
+[array]
+area = 4.0 # m^2
+efficiency = 24 # %
+
+[battery]
+capacity = 3000
+pack-resistance = 0.2
+max-voltage = 160 # TODO: get better numbers for voltage
+min-voltage = 64
+
+[motor]
+hysteresis-loss = 2.08064
+eddy-current-loss-coefficient = 0.0364
+
+[tire]
+name = "Bridgestone Enliten (2023)"
+wheel-radius = 0.27635
+pressure = 490
+alpha = -0.477792358183247
+beta = 1.13554135884356
+a = 0.0100701943060431
+b = 4.36050341473975e-5
+c = 1.67047322589584e-7

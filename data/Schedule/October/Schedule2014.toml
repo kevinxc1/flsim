@@ -1,0 +1,56 @@
+schedule_name = "Schedule2014"
+race_type = "WSC"
+[[schedule]]
+name = "Day 1"
+bod_charge_start = "2014-10-22T08:30:00+09:30"
+bod_charge_end = "2014-10-22T08:30:00+09:30"
+race_start = "2014-10-22T08:30:00+09:30"
+race_end = "2014-10-22T16:59:59+09:30"
+eod_charge_start = "2014-10-22T17:00:00+09:30"
+eod_charge_end = "2014-10-22T21:00:00+09:30"
+
+[[schedule]]
+name = "Day 2"
+bod_charge_start = "2014-10-23T06:00:00+09:30"
+bod_charge_end = "2014-10-23T07:59:59+09:30"
+race_start = "2014-10-23T08:00:00+09:30"
+race_end = "2014-10-23T16:59:59+09:30"
+eod_charge_start = "2014-10-23T17:00:00+09:30"
+eod_charge_end = "2014-10-23T21:00:00+09:30"
+
+[[schedule]]
+name = "Day 3"
+bod_charge_start = "2014-10-24T06:00:00+09:30"
+bod_charge_end = "2014-10-24T07:59:59+09:30"
+race_start = "2014-10-24T08:00:00+09:30"
+race_end = "2014-10-24T16:59:59+09:30"
+eod_charge_start = "2014-10-24T17:00:00+09:30"
+eod_charge_end = "2014-10-24T21:00:00+09:30"
+
+[[schedule]]
+name = "Day 4"
+bod_charge_start = "2014-10-25T06:00:00+09:30"
+bod_charge_end = "2014-10-25T07:59:59+09:30"
+race_start = "2014-10-25T08:00:00+09:30"
+race_end = "2014-10-25T16:59:59+09:30"
+eod_charge_start = "2014-10-25T17:00:00+09:30"
+eod_charge_end = "2014-10-25T21:00:00+09:30"
+
+[[schedule]]
+name = "Day 5"
+bod_charge_start = "2014-10-26T06:00:00+09:30"
+bod_charge_end = "2014-10-26T07:59:59+09:30"
+race_start = "2014-10-26T08:00:00+09:30"
+race_end = "2014-10-26T16:59:59+09:30"
+eod_charge_start = "2014-10-26T17:00:00+09:30"
+eod_charge_end = "2014-10-26T21:00:00+09:30"
+
+[[schedule]]
+name = "Day 6"
+bod_charge_start = "2014-10-27T06:00:00+09:30"
+bod_charge_end = "2014-10-27T07:59:59+09:30"
+race_start = "2014-10-27T08:00:00+09:30"
+race_end = "2014-10-27T16:59:59+09:30"
+eod_charge_start = "2014-10-27T17:00:00+09:30"
+eod_charge_end = "2014-10-27T21:00:00+09:30"
+
